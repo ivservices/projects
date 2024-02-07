@@ -2,13 +2,13 @@ getgenv().bot = true
 
 -- BLACKLIST
 
-local blacklistedUsernames = {"MortifiedAce", "echofluwuff", "aceylz", "ibanezdamian", "Inter_NEO", "mrbeastgoodatzoom", "Officertyrone7839", "Piggy_pigrun", "Blueshoes29", "FlamingFireOfDeath", "Doober2013", "TroyAlmusawi", "Meaverygrumpyoldman", "GuyWlthATophat", "daddycool67", "BeastBoy553112", "josegamer21012", "Nikki112721", "Clorenclo", "IVSecurit", "Ungami9", "AliJasim304", "Tier3PokimaneSimp1", "Imgod1233344", "windygoe", "Minecrafty121212", "Minecrafty121212", "DaydayShu", "Microwaves_noobs", "reaperpaly"}
+local blacklistedUsernames = {""}
 
 local adminUsernames = {"sdgfdtgggff", "jacwuez", "diorxstwr", "Zolyphony", "ArtilleryBarragee", "BatataBrzao", "ProObbyistGirlLvl"}
 
 -- WHITELIST
 
-local whitelistedUsernames = {"IVSecurity", "ivservices", "lVSecurit", "ivwallet", "IV_Security", "lV_Securit"}
+local whitelistedUsernames = {""}
 
 -- WEBHOOK
 
